@@ -163,20 +163,11 @@
   ],
   "BiliUniverse-ADBlock-main": [
     {
-      "url": "https://gcore.jsdelivr.net/gh/BiliUniverse/ADBlock@main/modules/BiliBili.ADBlock.plugin",
+      "url": "https://github.com/BiliUniverse/ADBlock/releases/latest/download/BiliBili.ADBlock.plugin",
       "name": "📺 BiliBili: 🛡️ ADBlock",
       "description": "哔哩哔哩：去广告",
-      "icon": "https://github.com/BiliUniverse/ADBlock/raw@main/database/icon_rounded.png",
+      "icon": "https://gcore.jsdelivr.net/gh/BiliUniverse/ADBlock@main/src/assets/icon_rounded.png",
       "open_url": "http://boxjs.com/#/app/BiliBili.ADBlock",
-      "homepage": "https://adblock.biliuniverse.io",
-      "manual": "https://manual.biliuniverse.io"
-    },
-    {
-      "url": "https://gcore.jsdelivr.net/gh/BiliUniverse/ADBlock@main/modules/BiliBili.ADBlock.beta.plugin",
-      "name": "📺 BiliBili: 🛡️ ADBlock β",
-      "description": "(BETA) 哔哩哔哩：去广告",
-      "icon": "https://github.com/BiliUniverse/ADBlock/raw@main/database/icon_rounded.png",
-      "open_url": "http://boxjs.com/#/app/BiliBili.ADBlock.beta",
       "homepage": "https://adblock.biliuniverse.io",
       "manual": "https://manual.biliuniverse.io"
     }
@@ -2183,10 +2174,10 @@
   ],
   "BiliUniverse-Enhanced-main": [
     {
-      "url": "https://gcore.jsdelivr.net/gh/BiliUniverse/Enhanced@main/modules/BiliBili.Enhanced.plugin",
+      "url": "https://github.com/BiliUniverse/Enhanced/releases/latest/download/BiliBili.Enhanced.plugin",
       "name": "📺 BiliBili: ⚙ Enhanced",
       "description": "哔哩哔哩：增强模式（中国站功能增强及UI自定义）",
-      "icon": "https://github.com/BiliUniverse/Enhanced/raw@main/src/assets/icon_rounded.png",
+      "icon": "https://gcore.jsdelivr.net/gh/BiliUniverse/Enhanced@main/src/assets/icon_rounded.png",
       "open_url": "http://boxjs.com/#/app/BiliBili.Enhanced",
       "homepage": "https://enhanced.biliuniverse.io",
       "manual": "https://manual.biliuniverse.io"
@@ -2204,31 +2195,13 @@
   ],
   "BiliUniverse-Global-main": [
     {
-      "url": "https://gcore.jsdelivr.net/gh/BiliUniverse/Global@main/modules/BiliBili.Global.beta.plugin",
-      "name": "📺 BiliBili: 🌐 Global β",
-      "description": "(BETA) 哔哩哔哩：全球模式（中国站自动线路及全区搜索）",
-      "icon": "https://github.com/BiliUniverse/Global/raw@main/src/assets/icon_rounded_108x.png",
-      "open_url": "http://boxjs.com/#/app/BiliBili.Global.beta",
-      "homepage": "https://global.biliuniverse.io",
-      "manual": "https://manual.biliuniverse.io"
-    },
-    {
-      "url": "https://gcore.jsdelivr.net/gh/BiliUniverse/Global@main/modules/BiliBili.Global.plugin",
+      "url": "https://github.com/BiliUniverse/Global/releases/latest/download/BiliBili.Global.plugin",
       "name": "📺 BiliBili: 🌐 Global",
-      "description": "哔哩哔哩：全球模式（中国站自动线路及全区搜索）",
-      "icon": "https://github.com/BiliUniverse/Global/raw@main/src/assets/icon_rounded_108x.png",
+      "description": "哔哩哔哩：全球模式",
+      "icon": "https://gcore.jsdelivr.net/gh/BiliUniverse/Global@main/src/assets/icon_rounded_108x.png",
       "open_url": "http://boxjs.com/#/app/BiliBili.Global",
       "homepage": "https://global.biliuniverse.io",
       "manual": "https://manual.biliuniverse.io"
-    },
-    {
-      "url": "https://gcore.jsdelivr.net/gh/BiliUniverse/Global@main/modules/unreleased/BiliIntl.Global.plugin",
-      "name": "📺 BiliIntl: 🌐 Global",
-      "description": "哔哩国际：全球模式                                   （国际版内容聚合及自动线路）",
-      "icon": "https://gcore.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/bilibili.png",
-      "open_url": "http://boxjs.com/#/app/BiliIntl.Global",
-      "homepage": "https://github.com/BiliUniverse",
-      "manual": "https://github.com/BiliUniverse/Global/wiki"
     }
   ],
   "app2smile-rules-master": [
